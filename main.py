@@ -38,7 +38,6 @@ def main():
     # """
 
     story = run_agent("story_architect", user_idea)
-    print(story)
     characters = run_agent("character_agent", story)
     plot = run_agent("plot_agent", story + characters)
     dialogue = run_agent("dialogue_agent", story + characters + plot)
