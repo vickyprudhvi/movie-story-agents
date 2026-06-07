@@ -1,0 +1,197 @@
+{
+  "scenes": [
+    {
+      "id": 1,
+      "act": 1,
+      "title": "Quiet Before the Storm",
+      "location": "Veer's secluded home",
+      "time": "Day, morning",
+      "participants": ["Veer Malhotra"],
+      "setup": "Veer tries to enjoy his peaceful retirement, reflecting on his past.",
+      "conflict": "Veer wrestles internally with his lingering guilt and isolation.",
+      "turning_point": "Veer receives news of Richard Flynn’s mysterious death.",
+      "outcome": "Veer is shaken and feels the past creeping back in.",
+      "purpose": "Establish Veer's internal struggle and set the inciting incident in motion.",
+      "pacing": "slow"
+    },
+    {
+      "id": 2,
+      "act": 1,
+      "title": "Cryptic Legacy",
+      "location": "Veer's home office",
+      "time": "Day, midday",
+      "participants": ["Veer Malhotra"],
+      "setup": "Veer investigates the news and finds a hidden message left by Richard.",
+      "conflict": "Decoding the message reveals a secret 'legacy protocol' but puts Veer on alert.",
+      "turning_point": "Veer decides to respond despite personal risk.",
+      "outcome": "Veer resolves to investigate further.",
+      "purpose": "Introduce the mystifying legacy protocol and Veer’s call to action.",
+      "pacing": "medium"
+    },
+    {
+      "id": 3,
+      "act": 1,
+      "title": "Call to Action",
+      "location": "Coffee shop, international city (e.g., London)",
+      "time": "Day, afternoon",
+      "participants": ["Veer Malhotra", "Lena Vazquez"],
+      "setup": "Veer contacts Lena, his trusted protégé, to assist with the technical puzzle.",
+      "conflict": "Lena is hesitant about getting involved, fearing danger.",
+      "turning_point": "Veer convinces Lena by revealing the threat’s scale.",
+      "outcome": "Lena agrees to help, reinvigorating old bonds of trust.",
+      "purpose": "Introduce Lena and build Veer's willingness to reconnect.",
+      "pacing": "medium"
+    },
+    {
+      "id": 4,
+      "act": 2,
+      "title": "Shadows of the Past",
+      "location": "Veer’s safe house, city outskirts",
+      "time": "Night",
+      "participants": ["Veer Malhotra"],
+      "setup": "Veer follows a lead from the message, investigating an abandoned safe house.",
+      "conflict": "He’s ambushed by unknown assailants but narrowly escapes.",
+      "turning_point": "Veer realizes the conspiracy is closer and deadlier than anticipated.",
+      "outcome": "Veer commits fully to uncovering the truth.",
+      "purpose": "Raise stakes and introduce physical danger.",
+      "pacing": "fast"
+    },
+    {
+      "id": 5,
+      "act": 2,
+      "title": "Allies and Enemies",
+      "location": "Secluded café, international city",
+      "time": "Day, morning",
+      "participants": ["Veer Malhotra", "Mikhail Orlov"],
+      "setup": "Veer meets Mikhail, an old ally, who offers new intelligence about the conspiracy.",
+      "conflict": "Veer’s distrust causes tension; Mikhail pressures for cooperation.",
+      "turning_point": "Veer reluctantly agrees to work together.",
+      "outcome": "Old alliances are cautiously rekindled, tension lingers beneath.",
+      "purpose": "Introduce Mikhail’s dual role and build tension.",
+      "pacing": "medium"
+    },
+    {
+      "id": 6,
+      "act": 2,
+      "title": "Unveiling the Conspiracy",
+      "location": "Lena’s tech lab",
+      "time": "Night, late",
+      "participants": ["Veer Malhotra", "Lena Vazquez"],
+      "setup": "Lena uncovers digital traces linking the legacy protocol to Evelyn Crane's consortium.",
+      "conflict": "Veer struggles to accept the scale and infiltration of the conspiracy.",
+      "turning_point": "They find proof of Evelyn’s involvement and her plan to reshape global power.",
+      "outcome": "Veer’s suspicion grows, and danger looms.",
+      "purpose": "Reveal the antagonist’s plan and raise stakes.",
+      "pacing": "medium"
+    },
+    {
+      "id": 7,
+      "act": 2,
+      "title": "Betrayal Cuts Deep",
+      "location": "Abandoned warehouse",
+      "time": "Night, stormy",
+      "participants": ["Veer Malhotra", "Mikhail Orlov"],
+      "setup": "Veer and Mikhail meet to exchange critical information.",
+      "conflict": "Mikhail betrays Veer, attempting to hand him over to Evelyn’s agents.",
+      "turning_point": "Veer narrowly escapes but is devastated by the betrayal.",
+      "outcome": "Veer’s trust issues deepen profoundly.",
+      "purpose": "Midpoint twist raising emotional and practical stakes.",
+      "pacing": "fast"
+    },
+    {
+      "id": 8,
+      "act": 2,
+      "title": "Shattered Trust",
+      "location": "Safe house",
+      "time": "Night, late",
+      "participants": ["Veer Malhotra", "Lena Vazquez", "Sofia Kim"],
+      "setup": "Veer hides and reflects; Lena and Sofia try to soothe his shaken resolve.",
+      "conflict": "Veer lashes out, refusing to trust anyone.",
+      "turning_point": "Lena challenges Veer to not let betrayal define him.",
+      "outcome": "Veer begins a hesitant path to accepting help.",
+      "purpose": "Character development and deepen emotional stakes.",
+      "pacing": "slow"
+    },
+    {
+      "id": 9,
+      "act": 2,
+      "title": "Gaining Ground",
+      "location": "International conference center",
+      "time": "Day, afternoon",
+      "participants": ["Veer Malhotra", "Sofia Kim"],
+      "setup": "Veer and Sofia attend a diplomatic event to gather intel on Evelyn’s moves.",
+      "conflict": "They face surveillance and attempts to thwart their investigation.",
+      "turning_point": "Veer uncovers Evelyn’s next step toward activating the legacy protocol.",
+      "outcome": "Plans are made to intercept.",
+      "purpose": "Increase tension and urgency.",
+      "pacing": "medium"
+    },
+    {
+      "id": 10,
+      "act": 3,
+      "title": "Confronting the Mastermind",
+      "location": "Covert headquarters, underground bunker",
+      "time": "Night, late",
+      "participants": ["Veer Malhotra", "Evelyn Crane"],
+      "setup": "Veer infiltrates Evelyn’s stronghold to confront her.",
+      "conflict": "A tense ideological and physical battle between Veer and Evelyn ensues.",
+      "turning_point": "Veer exposes her conspiracy to her own network.",
+      "outcome": "Evelyn is momentarily destabilized, control slips.",
+      "purpose": "Climax, direct confrontation resolving central conflict.",
+      "pacing": "fast"
+    },
+    {
+      "id": 11,
+      "act": 3,
+      "title": "Legacy Protocol Activated",
+      "location": "Hidden control room",
+      "time": "Night, moments after confrontation",
+      "participants": ["Veer Malhotra", "Lena Vazquez"],
+      "setup": "Veer and Lena race against time to activate the legacy protocol safely.",
+      "conflict": "Systems resistance and enemy reinforcements threaten success.",
+      "turning_point": "Veer overcomes obstacles and triggers the protocol, halting the crisis.",
+      "outcome": "Global disaster is averted.",
+      "purpose": "Resolve external conflict and prevent catastrophe.",
+      "pacing": "fast"
+    },
+    {
+      "id": 12,
+      "act": 3,
+      "title": "Redemption and Renewal",
+      "location": "Veer’s home",
+      "time": "Day, morning after crisis",
+      "participants": ["Veer Malhotra", "Sofia Kim", "Lena Vazquez"],
+      "setup": "Veer reflects on the aftermath, surrounded by trusted allies.",
+      "conflict": "Veer struggles with embracing vulnerability after past pain.",
+      "turning_point": "Veer opens up to Sofia and Lena, accepting trust and hope.",
+      "outcome": "Veer finds peace and a tentative new beginning.",
+      "purpose": "Emotional resolution demonstrating Veer’s arc completion.",
+      "pacing": "slow"
+    }
+  ],
+  "story_beats": {
+    "inciting_incident": "1: Veer learns about his handler's mysterious death",
+    "first_plot_point": "3: Veer commits to investigating the legacy protocol with Lena's help",
+    "midpoint": "7: Mikhail betrays Veer, forcing a crisis of trust",
+    "second_plot_point": "9: Veer uncovers Evelyn’s imminent activation of the legacy protocol",
+    "climax": "10: Veer confronts Evelyn and exposes her conspiracy",
+    "resolution": "12: Veer embraces trust and finds redemption after averting disaster"
+  },
+  "subplots": [
+    {
+      "name": "Trust and Betrayal",
+      "description": "Veer's struggle to trust allies as he is betrayed by Mikhail but supported by Lena and Sofia",
+      "scenes_involved": [3, 5, 7, 8, 12]
+    },
+    {
+      "name": "Legacy Protocol Conspiracy",
+      "description": "Uncovering and stopping Evelyn Crane's plan to manipulate global order",
+      "scenes_involved": [2, 4, 6, 9, 10, 11]
+    },
+    {
+      "name": "Veer's Redemption",
+      "description": "Veer's emotional journey from cynicism and guilt to cautious hope and trust",
+      "scenes_involved": [1, 8, 12]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Legacy Protocol",
+  "genre": "Thriller",
+  "sub_genre": "Spy",
+  "theme": "Trust and redemption in the face of betrayal",
+  "logline": "A retired spy must uncover the truth behind his handler's death and stop a global conspiracy before it ignites a worldwide crisis.",
+  "premise": "Veer, a retired spy, is pulled back into the dangerous world he left behind after his former handler is mysteriously killed. As he uncovers a hidden legacy protocol, Veer must navigate betrayal and deception to prevent a catastrophic global event.",
+  "setting": "Contemporary world spanning major international cities",
+  "act_one": {
+    "summary": "Veer's peaceful retirement is shattered when he learns of his former handler's death and discovers a cryptic message leading him to a secret legacy protocol.",
+    "key_events": [
+      "Veer learns about his handler's mysterious death",
+      "Veer receives a hidden message linked to the legacy protocol",
+      "Veer decides to investigate despite risks"
+    ]
+  },
+  "act_two": {
+    "summary": "Veer confronts dangerous enemies and uncovers layers of conspiracy, facing betrayal and uncovering truths that challenge his trust in allies.",
+    "key_events": [
+      "Veer follows leads to uncover the global conspiracy",
+      "Veer encounters old enemies and new threats",
+      "A close ally betrays Veer, deepening the conspiracy",
+      "Veer discovers the scope and stakes of the legacy protocol"
+    ]
+  },
+  "act_three": {
+    "summary": "In a tense climax, Veer exposes the conspiracy and activates a plan to stop the impending crisis, redeeming his past while securing the future.",
+    "key_events": [
+      "Veer confronts the mastermind behind the conspiracy",
+      "Veer activates the legacy protocol to avert disaster",
+      "Veer reconciles with his past and secures a new future"
+    ]
+  },
+  "narrative_objectives": [
+    "Establish Veer's internal struggle with his past and trust issues",
+    "Build suspense through escalating threats and betrayals",
+    "Deliver a satisfying resolution that ties Veer's redemption to stopping the conspiracy"
+  ]
+}

@@ -1,7 +1,17 @@
 from pathlib import Path
+from openai import OpenAI
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
+local_api_key = os.getenv("OPENAI_API_KEY")
 
 AGENTS_DIR = Path("agents")
 OUTPUT_DIR = Path("outputs")
+
+
+client = OpenAI(api_key=local_api_key)
 
 def load_agent(agent_name):
     path = AGENTS_DIR / f"{agent_name}.md"
@@ -9,13 +19,13 @@ def load_agent(agent_name):
 
 def run_agent(agent_name, context):
     prompt = load_agent(agent_name)
-    print(f"\n--- Running {agent_name} ---\n")
-    print("SYSTEM PROMPT:")
-    print(prompt[:300])
-    print("\nCONTEXT:")
-    print(context[:500])
+    response = client.responses.create(
+        model="gpt-4.1-mini",
+        input=[{"role": "system", "content": prompt}, 
+                {"role": "user", "content": context}],
+    )
 
-    return f"Output from {agent_name}"
+    return response.output_text
 
 def main():
     user_idea = """
@@ -24,10 +34,11 @@ def main():
     """
 
     story = run_agent("story_architect", user_idea)
+    print(story)
     characters = run_agent("character_agent", story)
     plot = run_agent("plot_agent", story + characters)
-    dialogue = run_agent("dialogue_agent", plot)
-    review = run_agent("critic_agent", dialogue)
+    dialogue = run_agent("dialogue_agent", story + characters + plot)
+    review = run_agent("critic_agent", story + characters + plot + dialogue)
 
     print("\nFinal Review:")
     print(review)

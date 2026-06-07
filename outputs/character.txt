@@ -1,0 +1,57 @@
+{
+  "protagonist": {
+    "name": "Veer Malhotra",
+    "age": 42,
+    "occupation": "Retired intelligence operative",
+    "goal": "Uncover the truth behind his handler’s death and stop the global conspiracy",
+    "internal_flaw": "Struggles with deep trust issues stemming from past betrayals",
+    "external_obstacle": "Powerful conspirators and shadowy enemies blocking his investigation",
+    "motivation": "Haunted by guilt over past missions and the loss of trusted allies, he seeks redemption by preventing another disaster",
+    "arc": "Veer moves from isolated suspicion and cynicism toward cautiously restoring trust in others and himself by the story’s end",
+    "backstory": "A once top-ranked spy who left the agency after a mission went wrong leading to the death of a close teammate. The betrayal of trusted colleagues hardened him and forced retirement."
+  },
+  "antagonist": {
+    "name": "Evelyn Crane",
+    "age": 45,
+    "occupation": "Director of a covert international security consortium",
+    "goal": "Manipulate the legacy protocol to reshape global power structures for what she believes is the greater good",
+    "motivation": "Believes that current world order is corrupt and unstable; her actions stem from a conviction to impose her brand of order even at great cost",
+    "method": "Leaks false intelligence, manipulates alliances, and orchestrates betrayals to maintain control and silence opponents",
+    "backstory": "Former intelligence operative herself, became disillusioned by unending conflicts and resolved to take radical steps to enforce stability through control"
+  },
+  "supporting": [
+    {
+      "name": "Lena Vazquez",
+      "role": "Ally / Tech Specialist",
+      "relationship_to_protagonist": "Veer’s former protégé who still trusts him deeply",
+      "function_in_story": "Provides technological expertise and new intel; represents the possibility of renewed trust"
+    },
+    {
+      "name": "Mikhail Orlov",
+      "role": "Betrayer / Double Agent",
+      "relationship_to_protagonist": "Veer’s close ally who ultimately betrays him",
+      "function_in_story": "His betrayal deepens Veer’s trust issues and raises stakes, adding emotional and practical conflict"
+    },
+    {
+      "name": "Richard Flynn",
+      "role": "Mentor / Former Handler",
+      "relationship_to_protagonist": "Veer’s deceased handler whose death triggers the plot",
+      "function_in_story": "His legacy and cryptic messages catalyze Veer’s journey; posthumous influence"
+    },
+    {
+      "name": "Sofia Kim",
+      "role": "Love Interest / Diplomat",
+      "relationship_to_protagonist": "Veer’s confidante and emotional anchor amid chaos",
+      "function_in_story": "Humanizes Veer, challenges his isolation, and symbolizes his chance at redemption"
+    }
+  ],
+  "relationship_map": {
+    "protagonist_antagonist": "Veer and Evelyn represent opposing visions of order and control; their conflict is both ideological and personal as Evelyn’s conspiracy directly threatens Veer’s world",
+    "protagonist_supporting": "Supporting characters either reinforce Veer’s trust issues or help him gradually overcome them; allies like Lena and Sofia encourage openness, while betrayal by Mikhail tests his resolve"
+  },
+  "character_evolution": {
+    "beginning_state": "Cynical, withdrawn, and emotionally guarded due to past betrayals",
+    "midpoint_shift": "A profound betrayal by a trusted ally forces Veer to confront his distrust and challenges him to decide whether to shut others out completely",
+    "end_state": "Veer embraces cautious trust and emotional connection, finding redemption and hope by trusting others enough to prevent the catastrophe"
+  }
+}
