@@ -11,6 +11,7 @@ AGENTS_DIR = Path("agents")
 OUTPUT_DIR = Path("outputs")
 
 
+
 client = OpenAI(api_key=local_api_key)
 
 def load_agent(agent_name):
@@ -28,10 +29,13 @@ def run_agent(agent_name, context):
     return response.output_text
 
 def main():
-    user_idea = """
-    A retired spy named Veer discovers his former handler is dead,
-    and a hidden legacy protocol pulls him into a global conspiracy.
-    """
+    user_idea_path = Path("user_idea.md")
+    user_idea = user_idea_path.read_text(encoding="utf-8")
+    
+    # user_idea = """
+    # A retired spy named Veer discovers his former handler is dead,
+    # and a hidden legacy protocol pulls him into a global conspiracy.
+    # """
 
     story = run_agent("story_architect", user_idea)
     print(story)

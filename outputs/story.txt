@@ -1,39 +1,41 @@
 {
   "title": "Legacy Protocol",
   "genre": "Thriller",
-  "sub_genre": "Spy",
-  "theme": "Trust and redemption in the face of betrayal",
-  "logline": "A retired spy must uncover the truth behind his handler's death and stop a global conspiracy before it ignites a worldwide crisis.",
-  "premise": "Veer, a retired spy, is pulled back into the dangerous world he left behind after his former handler is mysteriously killed. As he uncovers a hidden legacy protocol, Veer must navigate betrayal and deception to prevent a catastrophic global event.",
-  "setting": "Contemporary world spanning major international cities",
+  "sub_genre": "Spy Espionage",
+  "theme": "Trust and loyalty in a world of secrecy",
+  "logline": "A retired covert operative must uncover the truth behind his predecessor's mysterious Legacy Protocol and protect hidden assets before shadowy enemies erase them forever.",
+  "premise": "Veer, a retired covert operative living in isolation, is forced back into a deadly game of espionage when he learns a former commanding officer has died, triggering secret protocols linked to off-the-books assets. Alongside a junior agent sent to find him, Veer must navigate a web of trust and deception as they travel to Switzerland to secure vital intelligence before unknown adversaries strike.",
+  "setting": "Contemporary period, remote snow-covered region, a small Indian town, and international locations including Switzerland",
   "act_one": {
-    "summary": "Veer's peaceful retirement is shattered when he learns of his former handler's death and discovers a cryptic message leading him to a secret legacy protocol.",
+    "summary": "Veer's quiet life is disrupted when a secret message reveals someone is searching for him, leading him to kidnap and interrogate his pursuer, Prasad, who brings news of their former Commanding Officer's death and the urgent Legacy Protocol.",
     "key_events": [
-      "Veer learns about his handler's mysterious death",
-      "Veer receives a hidden message linked to the legacy protocol",
-      "Veer decides to investigate despite risks"
+      "Veer receives a secret envelope from Bharmi at the grocery store",
+      "Veer discovers Prasad is searching for him and abducts him near a hotel",
+      "Veer interrogates Prasad and confirms trust through a secret test involving Aditya's first love"
     ]
   },
   "act_two": {
-    "summary": "Veer confronts dangerous enemies and uncovers layers of conspiracy, facing betrayal and uncovering truths that challenge his trust in allies.",
+    "summary": "Veer explains the Legacy Protocol and reveals the stakes of protecting off-book assets, prompting a tense alliance with Prasad as they prepare to travel to Switzerland amid growing suspicion and hidden surveillance.",
     "key_events": [
-      "Veer follows leads to uncover the global conspiracy",
-      "Veer encounters old enemies and new threats",
-      "A close ally betrays Veer, deepening the conspiracy",
-      "Veer discovers the scope and stakes of the legacy protocol"
+      "Veer reveals the nature of the Legacy Protocol and his role as Aditya's legacy contact",
+      "They plan a covert trip to Switzerland to find the hidden assets",
+      "Veer secretly sends a coded message containing Prasad's photo and 'Switzerland' to an unknown recipient",
+      "Veer provides new identities and travel documents, preparing for their escape"
     ]
   },
   "act_three": {
-    "summary": "In a tense climax, Veer exposes the conspiracy and activates a plan to stop the impending crisis, redeeming his past while securing the future.",
+    "summary": "En route to Switzerland, Veer, Prasad, and the secretly accompanying Bharmi face unseen threats as they embark on a high-stakes operation to secure the Legacy assets and confront looming dangers from their past.",
     "key_events": [
-      "Veer confronts the mastermind behind the conspiracy",
-      "Veer activates the legacy protocol to avert disaster",
-      "Veer reconciles with his past and secures a new future"
+      "Veer and Prasad pass airport security with new identities",
+      "They board the flight separately, maintaining vigilance",
+      "The revelation of Bharmi traveling secretly with them hints at larger conspiracies"
     ]
   },
   "narrative_objectives": [
-    "Establish Veer's internal struggle with his past and trust issues",
-    "Build suspense through escalating threats and betrayals",
-    "Deliver a satisfying resolution that ties Veer's redemption to stopping the conspiracy"
+    "Develop Veer's transformation from a reclusive retiree to an active protector of hidden intelligence",
+    "Explore themes of trust and betrayal in espionage relationships",
+    "Increase tension through escalating suspense and mysterious threats",
+    "Reveal hidden layers of the Legacy Protocol and its impact on the characters",
+    "Maintain tight pacing for a compelling espionage thriller"
   ]
 }

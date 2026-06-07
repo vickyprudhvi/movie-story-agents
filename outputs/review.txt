@@ -1,54 +1,63 @@
 {
   "overall_score": 8.2,
   "needs_revision": false,
-  "summary": "Legacy Protocol presents a compelling spy thriller with a tightly woven plot and a well-defined protagonist arc focused on trust and redemption. The story structure is clear, with escalating tension and well-placed twists, especially the mid-act betrayal and ideological confrontation with the antagonist. Characters are mostly well-motivated and their relationships meaningfully impact the narrative. Dialogue is generally strong, effectively capturing character voice and emotional beats, though a few moments could use more subtext and naturalism. The pacing balances introspective and action-driven scenes well, supporting the thriller tone and emotional depth. Overall, the theme of trust versus betrayal is coherently integrated across plot and character evolution, providing satisfying resolution.",
+  "summary": "Legacy Protocol presents a tightly woven espionage thriller with a compelling protagonist undergoing a believable transformation from isolation to cautious trust. The story structure is sound, with clear instigating incidents and well-placed plot points that raise stakes effectively. Character motivations align well with the theme of trust and loyalty amid pervasive deception. Dialogues effectively convey tension and internal conflict without becoming expository. However, there are minor areas for enhancement especially in clarifying Bharmi’s ambiguous role to avoid undermining character trust arcs, and tightening pacing in certain slower scenes to maintain momentum.",
   "strengths": [
-    "Strong protagonist arc showing clear emotional growth from cynicism to renewed trust",
-    "Well-structured three-act plot with effective beats and meaningful stakes",
-    "Dialogues that reveal character motives and maintain tension, especially in key confrontations"
+    "Strong protagonist arc showing Veer’s evolution in trust and collaboration",
+    "Well-integrated theme of trust and loyalty reflected across characters and plot",
+    "Effective suspense building through layered threats and concealed agendas"
   ],
   "weaknesses": [
-    "Mikhail’s betrayal is impactful but his motivations could be more clearly developed to avoid feeling slightly abrupt",
-    "Some quieter scenes, particularly in Act Three’s resolution, could be tightened to maintain momentum",
-    "Dialogue occasionally borders on expositional or overly formal, slightly reducing naturalism"
+    "Bharmi’s ambiguous loyalty risks creating confusion without more clear foreshadowing or payoff",
+    "Some slower pacing moments (Act One and mid-Act Two) could lessen thriller momentum"
   ],
   "plot_holes": [
     {
-      "issue": "It is unclear how exactly Richard Flynn was killed or why the death was staged/suspicious, leaving a gap in the inciting incident's impact",
-      "location": "Act One / Scene 1 (Quiet Before the Storm)",
-      "suggestion": "Provide clearer context or hints about the cause or circumstances of Flynn's death to strengthen the inciting incident and Veer's urgency"
+      "issue": "Unclear why Veer sends a coded message with Prasad's photo and 'Switzerland' to an unknown recipient without consulting Prasad, risking exposure",
+      "location": "Act Two, Scene 4 'Plans and Paranoia'",
+      "suggestion": "Provide clearer motivation for Veer's secret communication, such as a backup plan or distrust of Prasad that is later resolved, to justify the risk"
+    },
+    {
+      "issue": "Bharmi’s secret presence on the flight and ambiguous loyalty lack sufficient foreshadowing, making her actions seem arbitrary",
+      "location": "Act Three, Scenes 7-10",
+      "suggestion": "Include subtle hints earlier in the story about Bharmi’s divided loyalties or covert assignment to prepare audience for her ambiguous role"
     }
   ],
   "character_issues": [
     {
-      "character": "Mikhail Orlov",
-      "issue": "His betrayal feels somewhat sudden and his deeper motivation for turning is not clearly articulated, which weakens his credibility",
-      "suggestion": "Develop Mikhail’s backstory or his pressures and conflicting loyalties earlier in the narrative to make the betrayal more believable and emotionally resonant"
+      "character": "Bharmi Desai",
+      "issue": "Her ambiguous loyalty feels less motivated and underdeveloped, potentially confusing audience about her true role",
+      "suggestion": "Add more nuanced scenes or dialogue showing Bharmi's internal conflict or hidden agenda to balance mystery with character credibility"
+    },
+    {
+      "character": "Veer Malhotra",
+      "issue": "Veer’s distrust is well established but his rapid shift to reluctant trust could be felt rushed in some scenes",
+      "suggestion": "Slow the arc marginally with more internal dialogue or external conflict reflecting his hesitation before trusting allies"
     }
   ],
   "pacing_issues": [
     {
-      "location": "Act Three / Scenes 11-12 (Legacy Protocol Activated; Redemption and Renewal)",
-      "issue": "The resolution scenes slow down abruptly after the fast-paced climax, risking a loss of tension and audience engagement",
-      "suggestion": "Condense or intersperse moments of reflection with subtle tension or stakes, perhaps by hinting at ongoing consequences or lingering threats, to sustain narrative drive while resolving arcs"
+      "location": "Act One, Scene 3 'Unveiling the Legacy'",
+      "issue": "The scene’s slow pacing and extensive exposition slightly dampen the rising tension",
+      "suggestion": "Condense the dialogue and intersperse with action or visual tension to maintain engagement"
+    },
+    {
+      "location": "Act Two, Scene 7 'Revelations in the Alps'",
+      "issue": "Though important for plot development, the scene feels slow relative to preceding fast-paced sequences",
+      "suggestion": "Increase stakes or introduce an external threat during this revelation to heighten urgency"
     }
   ],
   "dialogue_issues": [
     {
-      "scene": "Scene 3: Call to Action",
-      "issue": "Dialogue between Veer and Lena is somewhat formal and expository, reducing emotional spontaneity",
-      "suggestion": "Introduce more subtext, casual exchanges, or small moments of vulnerability to make the conversation feel more natural and deepen their rekindled relationship"
-    },
-    {
-      "scene": "Scene 10: Confronting the Mastermind",
-      "issue": "Some lines—especially Evelyn's ideological statements—come across as didactic, which can undercut nuance",
-      "suggestion": "Balance ideological arguments with subtext and personal stakes, showing rather than telling Evelyn’s conviction to enhance realism and tension"
+      "scene": "Scene 4 'Plans and Paranoia'",
+      "issue": "Some dialogue around secret communication feels slightly forced or unnatural, risking momentary disbelief",
+      "suggestion": "Make dialogue more fragmented or layered with subtext to reflect cautious communication typical in espionage"
     }
   ],
   "improvement_suggestions": [
-    "Clarify and foreshadow the nature of Richard Flynn’s death early to heighten plot urgency",
-    "Expand Mikhail’s characterization to better justify his betrayal and its impact on Veer",
-    "Refine pacing in the final act by blending resolution with sustained tension and more naturalistic dialogue"
+    "Enhance Bharmi’s ambiguity with foreshadowing and internal conflict to make her role compelling and believable",
+    "Tighten slower scenes by reducing exposition and increasing action or tension beats to maintain thriller pacing",
+    "Clarify Veer's secret actions, especially coded messaging, with clear stakes and motivations to avoid logical gaps"
   ],
   "revision_targets": ["story", "characters", "plot", "dialogue"]
 }

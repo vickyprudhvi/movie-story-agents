@@ -2,249 +2,122 @@
   "scene_dialogues": [
     {
       "scene_id": 1,
-      "scene_title": "Quiet Before the Storm",
-      "setting_note": "Sparse, quiet morning in Veer's secluded home, tension under calm",
+      "scene_title": "Quiet Disruption",
+      "setting_note": "Quiet, tense atmosphere; small-town grocery store bustling but Veer disconnected and watchful.",
       "dialogue": [
         {
-          "character": "Veer Malhotra",
-          "line": "Another day alone, just the way I planned.",
-          "action": "Sips coffee slowly, eyes distant."
+          "character": "Bharmi Desai",
+          "line": "Rough day, Veer. Thought you might need this.",
+          "action": "She slips a small envelope discreetly across the counter."
         },
         {
           "character": "Veer Malhotra",
-          "line": "But peace has its price... the past never really lets go.",
-          "action": "Runs hand over a framed photo of Richard Flynn."
+          "line": "You’re always full of surprises, Bharmi.",
+          "action": "Veer pockets the envelope without breaking eye contact, his demeanor sharpens."
         },
         {
-          "character": "Messenger (voice on phone)",
-          "line": \"Mr. Malhotra, it's about Richard Flynn. There's been... an incident.\",
-          "action": "Veer's hand tightens around the phone."
-        },
-        {
-          "character": "Veer Malhotra",
-          "line": \"What kind of incident? Speak clearly.\",
-          "action": "His calm fractures."
-        },
-        {
-          "character": "Messenger",
-          "line": \"He's dead. Under suspicious circumstances.\",
-          "action": "Veer drops the phone, breath sharp."
+          "character": "Bharmi Desai",
+          "line": "Some surprises aren’t the welcome kind. Watch your back.",
+          "action": "She nods briefly and moves on quickly."
         },
         {
           "character": "Veer Malhotra",
-          "line": \"Not now. Not him. The past isn’t done with me yet.\",
-          "action": "Stares out the window, jaw clenched."
+          "line": "(muttering) Like the past wasn’t loud enough already.",
+          "action": "He tucks the envelope inside his jacket, eyes flicking to the door."
         }
       ],
-      "subtext": "Veer’s fragile peace is shattered; guilt and unresolved pain begin to resurface.",
-      "emotional_beat": "Uneasy awakening to a threat from Veer's past."
+      "subtext": "Veer’s quiet life is already under threat; Bharmi’s warning signals a world he tried to leave is closing in.",
+      "emotional_beat": "Anxiety mixed with resigned vigilance."
     },
     {
       "scene_id": 2,
-      "scene_title": "Cryptic Legacy",
-      "setting_note": "Veer's dim home office cluttered with old files and tech, tension rising",
+      "scene_title": "The Pursuer",
+      "setting_note": "Isolated area near hotel; shadows lengthen, tension tightens as Veer confronts Prasad.",
       "dialogue": [
         {
           "character": "Veer Malhotra",
-          "line": "Richard always liked to leave a puzzle, didn't he?",
-          "action": "Examines a hidden compartment revealing a coded message."
+          "line": "You’ve been tailing me long enough, Prasad. Care to explain?",
+          "action": "Veer steps from the shadows, weapon trained but calm."
+        },
+        {
+          "character": "Prasad Iyer",
+          "line": "Name’s Prasad. I’m just doing my job.",
+          "action": "His hands raise slowly, eyes calculating."
         },
         {
           "character": "Veer Malhotra",
-          "line": "\"Legacy protocol.\" What are you trying to warn me about, old friend?",
-          "action": "Starts decoding, fingers moving quickly."
+          "line": "Your job? Finding a ghost buried under layers of smoke and silence? Who sent you?",
+          "action": "He circles Prasad, studying his reaction."
+        },
+        {
+          "character": "Prasad Iyer",
+          "line": "I know about Aditya’s first love—before the fall. Ask me.",
+          "action": "His voice is steady, challenging."
         },
         {
           "character": "Veer Malhotra",
-          "line": "This isn't just a message. It's a call. And it paints a target on my back.",
-          "action": "Checks over shoulder, wary."
+          "line": "Nisha. Not many remember. You’re not lying. So why come after me?",
+          "action": "Veer lowers his weapon slowly, suspicion mixing with reluctant trust."
         },
         {
-          "character": "Veer Malhotra",
-          "line": "I left this life behind... but it didn’t leave me.",
-          "action": "Clenches fist resolutely."
-        },
-        {
-          "character": "Veer Malhotra",
-          "line": "Time to see what legacy he wanted me to inherit.",
-          "action": "Packs gear with a hard glare."
+          "character": "Prasad Iyer",
+          "line": "Legacy protocols don’t die. They find their way to those chosen.",
+          "action": "Prasad meets Veer’s gaze directly."
         }
       ],
-      "subtext": "Veer feels both the burden and obligation of Richard’s final secret, igniting his reluctant reentry.",
-      "emotional_beat": "Reluctant acceptance of his inevitable return to danger."
+      "subtext": "The dance of suspicion between old wariness and the flicker of trust begins, testing if the past can be a bridge instead of a wall.",
+      "emotional_beat": "Tense, wary truce with undercurrents of necessity."
     },
     {
       "scene_id": 3,
-      "scene_title": "Call to Action",
-      "setting_note": "Busy London café, muted bustle contrasts Veer and Lena’s tense reunion",
+      "scene_title": "Unveiling the Legacy",
+      "setting_note": "Veer's dark, cluttered home at night; quiet with an edge of urgency as truths spill out.",
       "dialogue": [
         {
           "character": "Veer Malhotra",
-          "line": "Lena, you’re still the only one I trust with this.",
-          "action": "Slides a flash drive across the table."
+          "line": "Aditya's death wasn’t just an ending... it was a trigger.",
+          "action": "He spreads a faded dossier on the table."
         },
         {
-          "character": "Lena Vazquez",
-          "line": "You’re dragging me back into a world I tried to forget.",
-          "action": "Folds arms, wary."
-        },
-        {
-          "character": "Veer Malhotra",
-          "line": "I wouldn’t have come to you if this wasn’t serious. Richard’s dead — and this legacy protocol could ignite global chaos.",
-          "action": "Leans in, voice low."
-        },
-        {
-          "character": "Lena Vazquez",
-          "line": "If what you’re saying is true... then running away isn't an option.",
-          "action": "Unclips a USB reader with resolve."
+          "character": "Prasad Iyer",
+          "line": "Legacy Protocol. Assets off the book. Hidden intel that could change the game.",
+          "action": "He leans in, voice low."
         },
         {
           "character": "Veer Malhotra",
-          "line": "I’m glad you still have my back. We need each other more than ever.",
-          "action": "Offers a rare, brief smile."
+          "line": "I’m the last point of contact. If we don’t act, everything disappears—into enemy hands or worse.",
+          "action": "His hands tremble slightly, betraying his calm."
+        },
+        {
+          "character": "Prasad Iyer",
+          "line": "Then we move fast. Together. But can I really trust a man who’s been alone this long?",
+          "action": "Prasad’s challenge lingers in the air."
+        },
+        {
+          "character": "Veer Malhotra",
+          "line": "Trust is a currency I’m bankrupt on. But right now... I have no better option.",
+          "action": "Veer’s gaze hardens with reluctant resolve."
         }
       ],
-      "subtext": "Veer rekindles a fragile trust with Lena, opening the door back to connection despite danger.",
-      "emotional_beat": "Renewal of alliance and cautious hope."
-    },
-    {
-      "scene_id": 7,
-      "scene_title": "Betrayal Cuts Deep",
-      "setting_note": "Stormy night, abandoned warehouse tense and claustrophobic",
-      "dialogue": [
-        {
-          "character": "Veer Malhotra",
-          "line": "This better be good, Mikhail.",
-          "action": "Keeps hand near concealed weapon, eyes sharp."
-        },
-        {
-          "character": "Mikhail Orlov",
-          "line": "Trust me, Veer. We’re on the same side here.",
-          "action": "Smiles thinly, eyes flickering with something unreadable."
-        },
-        {
-          "character": "Veer Malhotra",
-          "line": "Funny how 'trust' fades when the stakes get high.",
-          "action": "Steps back cautiously."
-        },
-        {
-          "character": "Mikhail Orlov",
-          "line": "There’s no time for second guesses. They’re already here.",
-          "action": "Nods towards approaching footsteps, signaling armed men."
-        },
-        {
-          "character": "Veer Malhotra",
-          "line": "So this was your plan all along.",
-          "action": "Draws weapon and bursts into action, voice tight with betrayal."
-        },
-        {
-          "character": "Mikhail Orlov",
-          "line": "Better you in their hands than standing in the way, old friend.",
-          "action": "Vanishing into shadows."
-        }
-      ],
-      "subtext": "Mikhail's betrayal shatters Veer's last fragile trust, plunging him deeper into isolation and doubt.",
-      "emotional_beat": "Heartbreaking rupture of trust, escalating danger."
-    },
-    {
-      "scene_id": 10,
-      "scene_title": "Confronting the Mastermind",
-      "setting_note": "Cold underground bunker, tense and charged with confrontation",
-      "dialogue": [
-        {
-          "character": "Veer Malhotra",
-          "line": "Evelyn. I should have known the legacy protocol would lead to you.",
-          "action": "Emerges from shadows, gun trained steadily."
-        },
-        {
-          "character": "Evelyn Crane",
-          "line": "Veer, always the idealist. But your idealism is obsolete.",
-          "action": "Smirks, poised and composed."
-        },
-        {
-          "character": "Veer Malhotra",
-          "line": "Imposing order through control isn’t salvation — it’s a cage. You’re no savior, Evelyn. You’re a prisoner of your own ambition.",
-          "action": "Steps forward, eyes blazing."
-        },
-        {
-          "character": "Evelyn Crane",
-          "line": "Sacrifices are necessary to build something better. You’re just too afraid to make them.",
-          "action": "Calmly presses a button, initiating security lockdown."
-        },
-        {
-          "character": "Veer Malhotra",
-          "line": "I’m not afraid. I’m done watching people become collateral damage in your crusade.",
-          "action": "Takes out hidden device, streams damning evidence to her network."
-        },
-        {
-          "character": "Evelyn Crane",
-          "line": \"No... you... can't...\",
-          "action": "Her confident facade falters, eyes darting in alarm."
-        }
-      ],
-      "subtext": "Veer confronts the ideological heart of the conspiracy, exposing Evelyn’s vulnerability and sowing doubt in her control.",
-      "emotional_beat": "Climactic challenge of ideals, power, and truth."
-    },
-    {
-      "scene_id": 12,
-      "scene_title": "Redemption and Renewal",
-      "setting_note": "Morning light filters softly into Veer's home; calm after storm",
-      "dialogue": [
-        {
-          "character": "Veer Malhotra",
-          "line": "Feels almost strange... waking up without an enemy lurking.",
-          "action": "Sits quietly, looking out window."
-        },
-        {
-          "character": "Sofia Kim",
-          "line": "It’s not strange, Veer. It’s a chance—a chance you never let yourself believe in before.",
-          "action": "Places a gentle hand on his shoulder."
-        },
-        {
-          "character": "Lena Vazquez",
-          "line": "You fought hard to get here. Don’t lose it now by shutting us out again.",
-          "action": "Looks between Veer and Sofia with steady warmth."
-        },
-        {
-          "character": "Veer Malhotra",
-          "line": "Maybe... maybe it’s time I try trusting again. Not blindly, but enough to move forward.",
-          "action": "Finally smiles, small but genuine."
-        },
-        {
-          "character": "Sofia Kim",
-          "line": "That’s all any of us can ask for.",
-          "action": "Smiles back, hopeful."
-        }
-      ],
-      "subtext": "Veer tentatively steps towards healing, opening his heart to the possibility of connection and redemption.",
-      "emotional_beat": "Peaceful acceptance and cautious hope."
+      "subtext": "Veer confronts his isolation, balancing the weight of loyalty with the harsh necessity to accept partnership — cracks appear in his carefully built defenses.",
+      "emotional_beat": "Reluctant alliance, tension folding into fragile hope."
     }
   ],
   "key_lines": [
     {
-      "character": "Veer Malhotra",
-      "line": "Time to see what legacy he wanted me to inherit.",
-      "significance": "Marks Veer's step from retirement to action, embracing his past’s burden."
+      "character": "Bharmi Desai",
+      "line": "Some surprises aren’t the welcome kind. Watch your back.",
+      "significance": "Signals the impending threat that disrupts Veer’s isolation, launching the story’s momentum."
     },
     {
-      "character": "Lena Vazquez",
-      "line": "If what you’re saying is true... then running away isn't an option.",
-      "significance": "Reignites Veer’s alliance and symbolizes revival of trust."
-    },
-    {
-      "character": "Mikhail Orlov",
-      "line": "Better you in their hands than standing in the way, old friend.",
-      "significance": "The line crystallizes betrayal and the shattering of Veer’s trust."
+      "character": "Prasad Iyer",
+      "line": "I know about Aditya’s first love—before the fall. Ask me.",
+      "significance": "Represents the first real test of Veer’s mistrust and the opening for alliance."
     },
     {
       "character": "Veer Malhotra",
-      "line": "I’m done watching people become collateral damage in your crusade.",
-      "significance": "Veer rejects Evelyn’s ruthless ideology, asserting his moral boundary."
-    },
-    {
-      "character": "Veer Malhotra",
-      "line": "Maybe... maybe it’s time I try trusting again. Not blindly, but enough to move forward.",
-      "significance": "Veer’s emotional breakthrough, completing his character arc toward redemption."
+      "line": "Trust is a currency I’m bankrupt on. But right now... I have no better option.",
+      "significance": "Captures Veer’s internal struggle and turning point toward collaboration essential for the mission."
     }
   ]
 }
