@@ -1,6 +1,8 @@
 from pathlib import Path
 
 AGENTS_DIR = Path("agents")
+OUTPUT_DIR = Path("outputs")
+
 def load_agent(agent_name):
     path = AGENTS_DIR / f"{agent_name}.md"
     return path.read_text(encoding="utf-8")
@@ -29,6 +31,16 @@ def main():
 
     print("\nFinal Review:")
     print(review)
+    with open(  OUTPUT_DIR / "story.txt", "w", encoding="utf-8") as f:
+        f.write(story)
+    with open(  OUTPUT_DIR / "character.txt", "w", encoding="utf-8") as f:
+        f.write(characters)
+    with open(  OUTPUT_DIR / "plot.txt", "w", encoding="utf-8") as f:
+        f.write(plot)
+    with open(  OUTPUT_DIR / "dialogue.txt", "w", encoding="utf-8") as f:
+        f.write(dialogue)
+    with open(  OUTPUT_DIR / "review.txt", "w", encoding="utf-8") as f:
+        f.write(review)
 
 if __name__ == "__main__":
     main()
