@@ -120,12 +120,12 @@ Creates the overall narrative structure.
 * Define theme
 * Define genre
 * Create logline
-* Build three-act structure
+* Build story using Joseph Campbell's 12-stage Hero's Journey
 
 ### Outputs
 
 * Story foundation
-* Act breakdown
+* 12-stage Hero's Journey breakdown
 * Narrative objectives
 
 ---
