@@ -66,6 +66,7 @@ def main():
     user_idea_path = Path("user_idea.md")
     user_idea = user_idea_path.read_text(encoding="utf-8")
 
+    print("Step 1: Director creating story development plan...")
     # 1. Director creates story development plan
     director_plan = run_agent(
         "director_agent",
@@ -85,6 +86,7 @@ def main():
         """
     )
 
+    print("Step 2: Story Architect building story foundation...")
     # 2. Story Architect follows Director's plan
     story = run_agent(
         "story_architect",
@@ -99,6 +101,7 @@ def main():
         """
     )
 
+    print("Step 3: Character Agent creating character profiles and arcs...")
     # 3. Character Agent follows Director + Story
     characters = run_agent(
         "character_agent",
@@ -116,6 +119,7 @@ def main():
         """
     )
 
+    print("Step 4: Plot Agent creating scene-level plot outline...")
     # 4. Plot Agent follows Director + Story + Characters
     plot = run_agent(
         "plot_agent",
@@ -136,6 +140,7 @@ def main():
         """
     )
 
+    print("Step 5: Dialogue Agent writing dialogue for key scenes...")
     # 5. Dialogue Agent follows Director + Story + Characters + Plot
     dialogue = run_agent(
         "dialogue_agent",
@@ -159,6 +164,7 @@ def main():
         """
     )
 
+    print("Step 6: Critic Agent reviewing full story package...")
     # 6. Critic Agent reviews full package
     review = run_agent(
         "critic_agent",
@@ -185,6 +191,7 @@ def main():
         """
     )
 
+    print("Step 7: Director making approve/revise decision...")
     # 7. Director makes approve/revise decision
     director_decision_text = run_agent(
         "director_agent",
@@ -230,6 +237,7 @@ def main():
     # 8. Revision loop controlled by Director
     while director_decision.get("decision", "").lower() == "revise" and cycle < max_cycles:
         cycle += 1
+        print(f"Revision cycle {cycle}: Director requested revisions — {director_decision.get('reason', '')}")
 
         revision_history.append(
             f"""
@@ -243,6 +251,7 @@ def main():
             """
         )
 
+        print(f"  Revision {cycle}.1: Plot Agent revising plot...")
         plot = run_agent(
             "plot_agent",
             f"""
@@ -274,6 +283,7 @@ def main():
             """
         )
 
+        print(f"  Revision {cycle}.2: Dialogue Agent rewriting dialogue...")
         dialogue = run_agent(
             "dialogue_agent",
             f"""
@@ -296,6 +306,7 @@ def main():
             """
         )
 
+        print(f"  Revision {cycle}.3: Critic Agent reviewing revised package...")
         review = run_agent(
             "critic_agent",
             f"""
@@ -321,6 +332,7 @@ def main():
             """
         )
 
+        print(f"  Revision {cycle}.4: Director evaluating revised package...")
         director_decision_text = run_agent(
             "director_agent",
             f"""
@@ -358,6 +370,7 @@ def main():
 
         director_decision = extract_director_decision(director_decision_text)
 
+    print("Step 9: Saving all outputs...")
     # 9. Save outputs
     save_output("director_plan.txt", director_plan)
     save_output("story.txt", story)
