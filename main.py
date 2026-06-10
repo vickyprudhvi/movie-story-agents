@@ -32,11 +32,6 @@ def main():
     user_idea_path = Path("user_idea.md")
     user_idea = user_idea_path.read_text(encoding="utf-8")
     
-    # user_idea = """
-    # A retired spy named Veer discovers his former handler is dead,
-    # and a hidden legacy protocol pulls him into a global conspiracy.
-    # """
-
     story = run_agent("story_architect", user_idea)
     characters = run_agent("character_agent", story)
     plot = run_agent("plot_agent", story + characters)

@@ -1,41 +1,64 @@
 {
   "title": "Legacy Protocol",
   "genre": "Thriller",
-  "sub_genre": "Spy Espionage",
-  "theme": "Trust and loyalty in a world of secrecy",
-  "logline": "A retired covert operative must uncover the truth behind his predecessor's mysterious Legacy Protocol and protect hidden assets before shadowy enemies erase them forever.",
-  "premise": "Veer, a retired covert operative living in isolation, is forced back into a deadly game of espionage when he learns a former commanding officer has died, triggering secret protocols linked to off-the-books assets. Alongside a junior agent sent to find him, Veer must navigate a web of trust and deception as they travel to Switzerland to secure vital intelligence before unknown adversaries strike.",
-  "setting": "Contemporary period, remote snow-covered region, a small Indian town, and international locations including Switzerland",
-  "act_one": {
-    "summary": "Veer's quiet life is disrupted when a secret message reveals someone is searching for him, leading him to kidnap and interrogate his pursuer, Prasad, who brings news of their former Commanding Officer's death and the urgent Legacy Protocol.",
-    "key_events": [
-      "Veer receives a secret envelope from Bharmi at the grocery store",
-      "Veer discovers Prasad is searching for him and abducts him near a hotel",
-      "Veer interrogates Prasad and confirms trust through a secret test involving Aditya's first love"
-    ]
-  },
-  "act_two": {
-    "summary": "Veer explains the Legacy Protocol and reveals the stakes of protecting off-book assets, prompting a tense alliance with Prasad as they prepare to travel to Switzerland amid growing suspicion and hidden surveillance.",
-    "key_events": [
-      "Veer reveals the nature of the Legacy Protocol and his role as Aditya's legacy contact",
-      "They plan a covert trip to Switzerland to find the hidden assets",
-      "Veer secretly sends a coded message containing Prasad's photo and 'Switzerland' to an unknown recipient",
-      "Veer provides new identities and travel documents, preparing for their escape"
-    ]
-  },
-  "act_three": {
-    "summary": "En route to Switzerland, Veer, Prasad, and the secretly accompanying Bharmi face unseen threats as they embark on a high-stakes operation to secure the Legacy assets and confront looming dangers from their past.",
-    "key_events": [
-      "Veer and Prasad pass airport security with new identities",
-      "They board the flight separately, maintaining vigilance",
-      "The revelation of Bharmi traveling secretly with them hints at larger conspiracies"
-    ]
+  "sub_genre": "Spy/Espionage",
+  "theme": "The enduring power of trust and loyalty beyond death",
+  "logline": "A retired covert operative must embrace his secret past and trust an unexpected ally to uncover hidden assets before shadowy forces erase their existence forever.",
+  "premise": "Veer, a retired covert operative living in isolation, is thrust back into the world of espionage when a junior agent named Prasad arrives, revealing that Veer's deceased mentor has left behind a secret legacy only Veer can unlock. Together with the seemingly ordinary cashier Bharmi, they must navigate layers of deception and danger en route to Switzerland to retrieve critical off-the-book intelligence before their enemies can silence the truth.",
+  "setting": "Contemporary, remote snow-covered region and urban locations culminating in Switzerland",
+  "hero_journey": {
+    "stage_1_ordinary_world": {
+      "summary": "Veer lives a solitary, quiet life in a remote snow-covered area, disconnected from his covert past and society.",
+      "key_events": ["Veer's routine grocery trips to a local town", "Interactions with Bharmi, the cashier"] 
+    },
+    "stage_2_call_to_adventure": {
+      "summary": "Veer receives a secret envelope containing a recording and photograph indicating someone is searching for him.",
+      "key_events": ["Bharmi slips an envelope into Veer's groceries", "Veer listens to the recording about a man named Prasad searching using Veer's old photo"]
+    },
+    "stage_3_refusal_of_call": {
+      "summary": "Veer hesitates but soon realizes the threat is real, forcing him to take action despite wanting to remain hidden.",
+      "key_events": ["Veer's initial alertness and contemplation", "Decision to retrieve his hidden gun and steal a car to shadow Prasad"] 
+    },
+    "stage_4_meeting_the_mentor": {
+      "summary": "Veer mentally reconnects to his deceased mentor Aditya via the Legacy Protocol, and later Bharmi acts as a guide facilitating communications.",
+      "key_events": ["Hearing Aditya's recorded voice instructing Prasad", "Bharmi's role as communication channel and secret operative"]
+    },
+    "stage_5_crossing_the_threshold": {
+      "summary": "Veer abducts Prasad and brings him to a hidden basement, fully committing to confronting the unfolding conspiracy.",
+      "key_events": ["Veer steals a car and stakes out Prasad", "Kidnapping Prasad to begin interrogation"] 
+    },
+    "stage_6_tests_allies_enemies": {
+      "summary": "Veer interrogates Prasad, probing his trustworthiness and learning about Aditya's death and the Legacy Protocol; Bharmi's true importance remains hidden.",
+      "key_events": ["Testing Prasad's knowledge of Aditya's first love", "Prasad revealing the secret package and instructions", "Veer's internal struggle to decide whom to trust"] 
+    },
+    "stage_7_approach_inmost_cave": {
+      "summary": "Veer and Prasad prepare to travel to Switzerland, the heart of the conspiracy, gathering new identities and resources.",
+      "key_events": ["Veer explaining the Legacy Protocol and the danger of off-book assets", "Retrieving passports, tickets and cash from a post office locker"] 
+    },
+    "stage_8_ordeal": {
+      "summary": "Veer faces the emotional weight of his mentor's death, the betrayal implicit in hidden enemies, and the burden of protecting a dangerous secret.",
+      "key_events": ["Reliving the loss of Aditya through the voice recording", "Confronting the reality that the organization wants assets to disappear", "Testing Prasad's loyalty under threat of violence"] 
+    },
+    "stage_9_reward": {
+      "summary": "Veer gains confirmed trust from Prasad and secures new identities and passage to Switzerland, empowering him to pursue the Legacy Protocol’s secret assets.",
+      "key_events": ["Prasad passes the trust test", "Veer securing new passports and tickets", "Veer affirming the off-book assets are his responsibility"] 
+    },
+    "stage_10_road_back": {
+      "summary": "Veer and Prasad, under new identities and covertly accompanied by Bharmi, travel to Switzerland, moving further into unknown territory.",
+      "key_events": ["Passing airport security using new identities", "Boarding the flight to Switzerland", "Veer's alertness to potential surveillance"] 
+    },
+    "stage_11_resurrection": {
+      "summary": "Veer faces his hardest test as he navigates multiple layers of betrayal and the presence of unseen enemies, reigniting his skills and fully embracing his role as legacy protector.",
+      "key_events": ["Realizing Bharmi’s deeper role in the network aboard the flight", "Suppressing paranoia and balancing trust among allies", "Preparing mentally for the dangerous mission ahead"] 
+    },
+    "stage_12_return_with_elixir": {
+      "summary": "Veer returns transformed from isolation to active protector of a secret legacy, ready to safeguard the truth and uphold loyalty beyond death.",
+      "key_events": ["Accepting responsibility as the Legacy Protocol’s executor", "Building a renewed network with Prasad and Bharmi", "Setting course for uncovering hidden intelligence in Switzerland"] 
+    }
   },
   "narrative_objectives": [
-    "Develop Veer's transformation from a reclusive retiree to an active protector of hidden intelligence",
-    "Explore themes of trust and betrayal in espionage relationships",
-    "Increase tension through escalating suspense and mysterious threats",
-    "Reveal hidden layers of the Legacy Protocol and its impact on the characters",
-    "Maintain tight pacing for a compelling espionage thriller"
+    "Explore the tension between isolation and trust in a world of espionage",
+    "Highlight the emotional cost of loyalty and duty beyond personal loss",
+    "Build suspense around hidden identities, secret legacies, and unseen alliances"
   ]
 }

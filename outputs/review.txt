@@ -1,63 +1,36 @@
 {
   "overall_score": 8.2,
   "needs_revision": false,
-  "summary": "Legacy Protocol presents a tightly woven espionage thriller with a compelling protagonist undergoing a believable transformation from isolation to cautious trust. The story structure is sound, with clear instigating incidents and well-placed plot points that raise stakes effectively. Character motivations align well with the theme of trust and loyalty amid pervasive deception. Dialogues effectively convey tension and internal conflict without becoming expository. However, there are minor areas for enhancement especially in clarifying Bharmi’s ambiguous role to avoid undermining character trust arcs, and tightening pacing in certain slower scenes to maintain momentum.",
+  "summary": "Legacy Protocol presents a tightly structured espionage thriller with a compelling protagonist arc that effectively explores themes of trust, loyalty, and transformation. The story maintains sustained tension through well-paced acts and layered character relationships, especially Veer's evolution from isolation to renewed alliance. Dialogue consistently reveals character psychology and advances the emotional stakes. Minor pacing concerns occur in slower early scenes, and Bharmi’s dual role could be more deeply foreshadowed to enhance payoff. Overall, the story delivers a coherent and emotionally resonant spy narrative with well-integrated thematic depth.",
   "strengths": [
-    "Strong protagonist arc showing Veer’s evolution in trust and collaboration",
-    "Well-integrated theme of trust and loyalty reflected across characters and plot",
-    "Effective suspense building through layered threats and concealed agendas"
+    "Solid three-act structure with clear hero’s journey stages that support emotional and plot progression.",
+    "Veer's character arc is well-crafted, showing believable internal struggle and transformation tied to the story’s theme.",
+    "Dialogue is purposeful and character-specific, effectively conveying tension, mistrust, and evolving alliances."
   ],
   "weaknesses": [
-    "Bharmi’s ambiguous loyalty risks creating confusion without more clear foreshadowing or payoff",
-    "Some slower pacing moments (Act One and mid-Act Two) could lessen thriller momentum"
+    "Early scenes in the Ordinary World stage are somewhat slow and risk losing momentum before the inciting incident.",
+    "Bharmi’s importance as a secret operative feels under-foreshadowed, making her later reveal less impactful."
   ],
-  "plot_holes": [
-    {
-      "issue": "Unclear why Veer sends a coded message with Prasad's photo and 'Switzerland' to an unknown recipient without consulting Prasad, risking exposure",
-      "location": "Act Two, Scene 4 'Plans and Paranoia'",
-      "suggestion": "Provide clearer motivation for Veer's secret communication, such as a backup plan or distrust of Prasad that is later resolved, to justify the risk"
-    },
-    {
-      "issue": "Bharmi’s secret presence on the flight and ambiguous loyalty lack sufficient foreshadowing, making her actions seem arbitrary",
-      "location": "Act Three, Scenes 7-10",
-      "suggestion": "Include subtle hints earlier in the story about Bharmi’s divided loyalties or covert assignment to prepare audience for her ambiguous role"
-    }
-  ],
+  "plot_holes": [],
   "character_issues": [
     {
-      "character": "Bharmi Desai",
-      "issue": "Her ambiguous loyalty feels less motivated and underdeveloped, potentially confusing audience about her true role",
-      "suggestion": "Add more nuanced scenes or dialogue showing Bharmi's internal conflict or hidden agenda to balance mystery with character credibility"
-    },
-    {
-      "character": "Veer Malhotra",
-      "issue": "Veer’s distrust is well established but his rapid shift to reluctant trust could be felt rushed in some scenes",
-      "suggestion": "Slow the arc marginally with more internal dialogue or external conflict reflecting his hesitation before trusting allies"
+      "character": "Bharmi Joshi",
+      "issue": "Her secret operative role emerges late without sufficient early hints, risking audience skepticism about trust dynamics.",
+      "suggestion": "Plant subtle clues to Bharmi's dual identity earlier, through nuanced behavior or ambiguous dialogue, to build suspense and credibility."
     }
   ],
   "pacing_issues": [
     {
-      "location": "Act One, Scene 3 'Unveiling the Legacy'",
-      "issue": "The scene’s slow pacing and extensive exposition slightly dampen the rising tension",
-      "suggestion": "Condense the dialogue and intersperse with action or visual tension to maintain engagement"
-    },
-    {
-      "location": "Act Two, Scene 7 'Revelations in the Alps'",
-      "issue": "Though important for plot development, the scene feels slow relative to preceding fast-paced sequences",
-      "suggestion": "Increase stakes or introduce an external threat during this revelation to heighten urgency"
+      "location": "Act 1 - Scenes 1 and 2 (Ordinary World)",
+      "issue": "The slow pacing and quiet tone may cause engagement issues before the story escalates.",
+      "suggestion": "Introduce more subtle tension or intrigue within Veer’s isolation, perhaps via an unsettling incident or internal conflict, to maintain interest."
     }
   ],
-  "dialogue_issues": [
-    {
-      "scene": "Scene 4 'Plans and Paranoia'",
-      "issue": "Some dialogue around secret communication feels slightly forced or unnatural, risking momentary disbelief",
-      "suggestion": "Make dialogue more fragmented or layered with subtext to reflect cautious communication typical in espionage"
-    }
-  ],
+  "dialogue_issues": [],
   "improvement_suggestions": [
-    "Enhance Bharmi’s ambiguity with foreshadowing and internal conflict to make her role compelling and believable",
-    "Tighten slower scenes by reducing exposition and increasing action or tension beats to maintain thriller pacing",
-    "Clarify Veer's secret actions, especially coded messaging, with clear stakes and motivations to avoid logical gaps"
+    "Enhance early foreshadowing of Bharmi’s covert role through small behavioral hints or cryptic dialogue.",
+    "Tighten opening scenes by integrating mild narrative tension to keep audience engagement before the Call to Adventure.",
+    "Consider deepening Veer's internal reflections in early scenes to more vividly contrast his mistrust and eventual transformation."
   ],
-  "revision_targets": ["story", "characters", "plot", "dialogue"]
+  "revision_targets": ["story", "characters", "plot"]
 }

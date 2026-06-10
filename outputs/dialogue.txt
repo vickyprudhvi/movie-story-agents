@@ -1,123 +1,171 @@
 {
   "scene_dialogues": [
     {
-      "scene_id": 1,
-      "scene_title": "Quiet Disruption",
-      "setting_note": "Quiet, tense atmosphere; small-town grocery store bustling but Veer disconnected and watchful.",
-      "dialogue": [
-        {
-          "character": "Bharmi Desai",
-          "line": "Rough day, Veer. Thought you might need this.",
-          "action": "She slips a small envelope discreetly across the counter."
-        },
-        {
-          "character": "Veer Malhotra",
-          "line": "You’re always full of surprises, Bharmi.",
-          "action": "Veer pockets the envelope without breaking eye contact, his demeanor sharpens."
-        },
-        {
-          "character": "Bharmi Desai",
-          "line": "Some surprises aren’t the welcome kind. Watch your back.",
-          "action": "She nods briefly and moves on quickly."
-        },
-        {
-          "character": "Veer Malhotra",
-          "line": "(muttering) Like the past wasn’t loud enough already.",
-          "action": "He tucks the envelope inside his jacket, eyes flicking to the door."
-        }
-      ],
-      "subtext": "Veer’s quiet life is already under threat; Bharmi’s warning signals a world he tried to leave is closing in.",
-      "emotional_beat": "Anxiety mixed with resigned vigilance."
-    },
-    {
-      "scene_id": 2,
-      "scene_title": "The Pursuer",
-      "setting_note": "Isolated area near hotel; shadows lengthen, tension tightens as Veer confronts Prasad.",
-      "dialogue": [
-        {
-          "character": "Veer Malhotra",
-          "line": "You’ve been tailing me long enough, Prasad. Care to explain?",
-          "action": "Veer steps from the shadows, weapon trained but calm."
-        },
-        {
-          "character": "Prasad Iyer",
-          "line": "Name’s Prasad. I’m just doing my job.",
-          "action": "His hands raise slowly, eyes calculating."
-        },
-        {
-          "character": "Veer Malhotra",
-          "line": "Your job? Finding a ghost buried under layers of smoke and silence? Who sent you?",
-          "action": "He circles Prasad, studying his reaction."
-        },
-        {
-          "character": "Prasad Iyer",
-          "line": "I know about Aditya’s first love—before the fall. Ask me.",
-          "action": "His voice is steady, challenging."
-        },
-        {
-          "character": "Veer Malhotra",
-          "line": "Nisha. Not many remember. You’re not lying. So why come after me?",
-          "action": "Veer lowers his weapon slowly, suspicion mixing with reluctant trust."
-        },
-        {
-          "character": "Prasad Iyer",
-          "line": "Legacy protocols don’t die. They find their way to those chosen.",
-          "action": "Prasad meets Veer’s gaze directly."
-        }
-      ],
-      "subtext": "The dance of suspicion between old wariness and the flicker of trust begins, testing if the past can be a bridge instead of a wall.",
-      "emotional_beat": "Tense, wary truce with undercurrents of necessity."
-    },
-    {
       "scene_id": 3,
-      "scene_title": "Unveiling the Legacy",
-      "setting_note": "Veer's dark, cluttered home at night; quiet with an edge of urgency as truths spill out.",
+      "scene_title": "The Envelope",
+      "setting_note": "Quiet grocery store bustling with locals, a subtle tension in the air as Veer receives a mysterious package.",
+      "dialogue": [
+        {
+          "character": "Bharmi Joshi",
+          "line": "(smiling softly) Thought you might need this.",
+          "action": "She slips the plain envelope into Veer’s grocery bag almost imperceptibly."
+        },
+        {
+          "character": "Veer Malhotra",
+          "line": "(glancing up sharply, voice low) What’s that?",
+          "action": "Pulls the bag apart slightly, eyes narrowing suspiciously."
+        },
+        {
+          "character": "Bharmi Joshi",
+          "line": "Just... something you left behind. Thought it was time you had it back.",
+          "action": "Avoids his eyes, resumes scanning groceries."
+        },
+        {
+          "character": "Veer Malhotra",
+          "line": "(muttering) You don’t just give things away for free.",
+          "action": "Turns and leaves the store, tension tightening his jaw."
+        }
+      ],
+      "subtext": "Bharmi is silently prompting Veer back towards his past, while Veer instinctively resists but is intrigued despite himself.",
+      "emotional_beat": "The uneasy crossing from quiet isolation toward inevitable confrontation."
+    },
+    {
+      "scene_id": 6,
+      "scene_title": "Capturing Prasad",
+      "setting_note": "Dimly lit underpass, cold and shadowed, tension crackling as Veer confronts a younger operative he barely trusts.",
       "dialogue": [
         {
           "character": "Veer Malhotra",
-          "line": "Aditya's death wasn’t just an ending... it was a trigger.",
-          "action": "He spreads a faded dossier on the table."
+          "line": "Stop struggling. You think I don’t know how this ends without control?",
+          "action": "Grabs Prasad’s arm tightly as Prasad tries to slip away."
         },
         {
-          "character": "Prasad Iyer",
-          "line": "Legacy Protocol. Assets off the book. Hidden intel that could change the game.",
-          "action": "He leans in, voice low."
-        },
-        {
-          "character": "Veer Malhotra",
-          "line": "I’m the last point of contact. If we don’t act, everything disappears—into enemy hands or worse.",
-          "action": "His hands tremble slightly, betraying his calm."
-        },
-        {
-          "character": "Prasad Iyer",
-          "line": "Then we move fast. Together. But can I really trust a man who’s been alone this long?",
-          "action": "Prasad’s challenge lingers in the air."
+          "character": "Prasad Singh",
+          "line": "You don’t have to do this. I came for your help.",
+          "action": "Breathing hard, eyes flickering with wary desperation."
         },
         {
           "character": "Veer Malhotra",
-          "line": "Trust is a currency I’m bankrupt on. But right now... I have no better option.",
-          "action": "Veer’s gaze hardens with reluctant resolve."
+          "line": "Help? You sound a lot like the last ghost that lied to me.",
+          "action": "Handcuffs Prasad’s wrist with a snap, eyes cold and unforgiving."
+        },
+        {
+          "character": "Prasad Singh",
+          "line": "If you want the truth, listen. I’m not your enemy.",
+          "action": "Stares Veer down, defiance mixing with hope."
         }
       ],
-      "subtext": "Veer confronts his isolation, balancing the weight of loyalty with the harsh necessity to accept partnership — cracks appear in his carefully built defenses.",
-      "emotional_beat": "Reluctant alliance, tension folding into fragile hope."
+      "subtext": "Veer’s mistrust and bitterness collide with Prasad’s earnest attempt to forge an alliance, underscoring Veer’s isolation.",
+      "emotional_beat": "A violent threshold crossed—a forced partnership born from suspicion and necessity."
+    },
+    {
+      "scene_id": 10,
+      "scene_title": "Betrayal and Burden",
+      "setting_note": "Dark basement filled with low light and static, Veer’s rage and pain boiling as Prasad faces his harshest test.",
+      "dialogue": [
+        {
+          "character": "Veer Malhotra",
+          "line": "Speak. Tell me what makes you different from all the vultures circling this corpse.",
+          "action": "Voice taut with anger, pulls a knife from the table, sliding it threateningly close."
+        },
+        {
+          "character": "Prasad Singh",
+          "line": "Because I’m not here for power. I’m here because he believed in me—like he believed in you.",
+          "action": "Locks eyes with Veer, unflinching despite the threat."
+        },
+        {
+          "character": "Veer Malhotra",
+          "line": "(after a long pause, voice barely above a whisper) Then don’t falter on that faith.",
+          "action": "Slides the knife away, breathing heavily, pain and doubt etched across his face."
+        }
+      ],
+      "subtext": "Veer wrestles with his wounds and broken trust, testing Prasad’s loyalty but ultimately seeking hope beyond betrayal.",
+      "emotional_beat": "The devastating vulnerability and slow rekindling of trust amid danger."
+    },
+    {
+      "scene_id": 13,
+      "scene_title": "Facing Shadows Within",
+      "setting_note": "Confined airplane cabin at night, shadows cast over faces; paranoia and fragile trust simmer as the flight crosses hostile skies.",
+      "dialogue": [
+        {
+          "character": "Veer Malhotra",
+          "line": "We’re all walking ghosts here. One wrong step, and the whole house collapses.",
+          "action": "Leans back, cold eyes scanning the cabin, voice low and steely."
+        },
+        {
+          "character": "Bharmi Joshi",
+          "line": "I never asked for your trust, Veer. But you’ll need it—more than ever.",
+          "action": "Meets his gaze with unwavering calm, hands folded quietly."
+        },
+        {
+          "character": "Prasad Singh",
+          "line": "We survive because we choose to believe in something bigger than fear.",
+          "action": "Offers a slight, encouraging smile."
+        },
+        {
+          "character": "Veer Malhotra",
+          "line": "(exhales slowly) Then consider me a believer, for the first time in too long.",
+          "action": "Eyes harden with renewed resolve, fists unclenching."
+        }
+      ],
+      "subtext": "Veer battles inner paranoia but ultimately recommits to his evolved role, accepting the fragile bonds that hold the mission and his survival.",
+      "emotional_beat": "Transformation through acceptance—trust as the weapon against shadows."
+    },
+    {
+      "scene_id": 14,
+      "scene_title": "Legacy Embraced",
+      "setting_note": "Morning light filters through Swiss safe house window, calm after storm; a sense of fragile hope and new beginnings.",
+      "dialogue": [
+        {
+          "character": "Veer Malhotra",
+          "line": "This isn’t just about secrets or shadows anymore. It’s about what we choose to protect... together.",
+          "action": "Stands by the window, voice steady and clear."
+        },
+        {
+          "character": "Prasad Singh",
+          "line": "We’re not just surviving the past; we’re building the future.",
+          "action": "Nods, eyes bright with anticipation."
+        },
+        {
+          "character": "Bharmi Joshi",
+          "line": "And from this moment on, nothing is off limits. Not loyalty. Not trust. Not us.",
+          "action": "Steps forward, confident and warm, a faint smile touching her lips."
+        },
+        {
+          "character": "Veer Malhotra",
+          "line": "Then let’s make sure the legacy lives on—no matter the cost.",
+          "action": "Turns fully to face them, resolute and commanding."
+        }
+      ],
+      "subtext": "Veer’s final acceptance of his role and team signals the hopeful start of renewed purpose and strengthened bonds in a dangerous world.",
+      "emotional_beat": "Redemption and commitment—loyalty reborn in unity."
     }
   ],
   "key_lines": [
     {
-      "character": "Bharmi Desai",
-      "line": "Some surprises aren’t the welcome kind. Watch your back.",
-      "significance": "Signals the impending threat that disrupts Veer’s isolation, launching the story’s momentum."
-    },
-    {
-      "character": "Prasad Iyer",
-      "line": "I know about Aditya’s first love—before the fall. Ask me.",
-      "significance": "Represents the first real test of Veer’s mistrust and the opening for alliance."
+      "character": "Veer Malhotra",
+      "line": "You don’t just give things away for free.",
+      "significance": "Veer’s instinctive mistrust sets the tone for his internal struggle between isolation and the need to trust."
     },
     {
       "character": "Veer Malhotra",
-      "line": "Trust is a currency I’m bankrupt on. But right now... I have no better option.",
-      "significance": "Captures Veer’s internal struggle and turning point toward collaboration essential for the mission."
+      "line": "You don’t have to do this. I came for your help.",
+      "significance": "Prasad’s earnest plea introduces the tension between suspicion and alliance crucial to Veer’s journey."
+    },
+    {
+      "character": "Veer Malhotra",
+      "line": "Then don’t falter on that faith.",
+      "significance": "Veer’s moment of vulnerability that marks a turning point toward tentative trust amidst pain."
+    },
+    {
+      "character": "Bharmi Joshi",
+      "line": "I never asked for your trust, Veer. But you’ll need it—more than ever.",
+      "significance": "Bharmi’s assertion confronts Veer’s mistrust and foreshadows their critical partnership."
+    },
+    {
+      "character": "Veer Malhotra",
+      "line": "This isn’t just about secrets or shadows anymore. It’s about what we choose to protect... together.",
+      "significance": "Final thematic statement summarizing Veer’s transformation and the story’s core message of loyalty beyond death."
     }
   ]
 }

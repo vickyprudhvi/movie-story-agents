@@ -1,51 +1,51 @@
 {
   "protagonist": {
     "name": "Veer Malhotra",
-    "age": 48,
+    "age": 52,
     "occupation": "Retired Covert Operative",
-    "goal": "To uncover the truth behind the Legacy Protocol and protect the hidden assets tied to his former Commanding Officer",
-    "internal_flaw": "His deep-seated distrust in others, stemming from years of betrayal in espionage, which makes him reluctant to form alliances",
-    "external_obstacle": "Shadowy enemies hunting the Legacy assets and the challenge of discerning friend from foe while navigating deception",
-    "motivation": "His loyalty to his fallen Commanding Officer Aditya and a personal need to atone for past failures by securing the intelligence that could save lives",
-    "arc": "Transforms from a solitary, closed-off figure to a cautious but trusting protector willing to collaborate and rely on others to fulfill the mission",
-    "backstory": "Veer served under Aditya for years, during which he witnessed betrayal in the agency and suffered personal losses that led him to retire in isolation. The sudden death of Aditya and activation of the Legacy Protocol thrust him back into the espionage world he sought to leave behind."
+    "goal": "To uncover and secure the secret legacy left by his deceased mentor before hostile forces erase it.",
+    "internal_flaw": "Deep-seated reluctance to trust others due to past betrayals and isolation, which inhibits collaboration and exposes him to greater danger.",
+    "external_obstacle": "Shadowy espionage factions bent on erasing the Legacy Protocol and silencing Veer permanently.",
+    "motivation": "A profound sense of loyalty and indebtedness to his late mentor Aditya, driving him to honor his legacy despite personal risk.",
+    "arc": "Veer evolves from a reclusive, mistrusting man burdened by loss to a decisive leader who embraces trust and alliance, reaffirming loyalty beyond death.",
+    "backstory": "Former top covert operative whose career ended after a failed mission caused by betrayal within the agency, leading to his mentor's death and his self-imposed exile in a remote region."
   },
   "antagonist": {
-    "name": "Colonel Rajiv Sahni",
-    "age": 52",
-    "occupation": "Rogue Intelligence Officer",
-    "goal": "To seize the Legacy Protocol assets for his own agenda, aiming to reshape the intelligence landscape in his favor",
-    "motivation": "Believes the current system is corrupt and justifies his actions as cleansing espionage field from outdated loyalties and threats, seeing Veer’s loyalty as a hindrance",
-    "method": "Uses covert operatives, misinformation, and surveillance to hunt Veer and intercept the Legacy Protocol before it can be secured",
-    "backstory": "A former colleague in intelligence, Sahni grew disillusioned with old loyalties and rose in ranks by betraying comrades. His ruthless drive to control legacy assets comes from a long history of power struggles within the agency."
+    "name": "Anil Deshmukh",
+    "age": 48",
+    "occupation": "Senior Intelligence Officer in a covert division with vested interests",
+    "goal": "To suppress the Legacy Protocol and eliminate all hands involved to protect classified operations and his own illicit dealings.",
+    "motivation": "Believes that exposure of the Legacy Protocol threatens national security and his power, so he justifies ruthless measures to preserve order and control.",
+    "method": "Manipulates intelligence networks, employs covert assassination squads, and uses disinformation to destabilize and neutralize Veer and allies.",
+    "backstory": "Career-driven officer who rose through ranks by eliminating threats to agency cohesion; became hardened and morally compromised, prioritizing agency preservation over truth."
   },
   "supporting": [
     {
-      "name": "Prasad Iyer",
-      "role": "Junior Agent / Ally",
-      "relationship_to_protagonist": "Initially a pursuer tasked with finding Veer, becomes a reluctant partner",
-      "function_in_story": "Represents trust and the new generation of operatives, challenges Veer's isolation, and aids in navigating espionage terrains"
+      "name": "Prasad Singh",
+      "role": "Junior Operative/Ally",
+      "relationship_to_protagonist": "He is the younger agent who seeks out Veer and encourages him back into the espionage world, gradually earning his trust.",
+      "function_in_story": "Represents the new generation of operatives; challenges Veer’s mistrust and injects urgency and hope into the mission."
     },
     {
-      "name": "Bharmi Desai",
-      "role": "Mysterious Ally / Love Interest",
-      "relationship_to_protagonist": "Longtime acquaintance who covertly supports Veer, her loyalty is ambiguous at first",
-      "function_in_story": "Adds emotional complexity, provides critical intelligence, and symbolizes the blurred lines of trust and deception"
+      "name": "Bharmi Joshi",
+      "role": "Cashier/Secret Operative/Guide",
+      "relationship_to_protagonist": "Initially appears as a benign local contact, but acts as a crucial communication link and covert facilitator for Veer.",
+      "function_in_story": "Embodies the theme of hidden loyalty and trust; her dual role tests Veer’s ability to embrace unexpected alliances."
     },
     {
-      "name": "Arjun Malhotra",
-      "role": "Veer's Estranged Brother / Emotional Anchor",
-      "relationship_to_protagonist": "Family member distant due to Veer's secretive life",
-      "function_in_story": "Though peripheral, serves as a humanizing link to Veer's past and moral grounding"
+      "name": "Aditya Kapoor",
+      "role": "Deceased Mentor (voice presence)",
+      "relationship_to_protagonist": "Former mentor whose legacy and recorded instructions propel Veer into the mission.",
+      "function_in_story": "Serves as a spiritual guide and emotional anchor, representing loyalty beyond death and motivating Veer’s transformation."
     }
   ],
   "relationship_map": {
-    "protagonist_antagonist": "Veer’s commitment to protect the Legacy Protocol directly threatens Sahni’s ambitions, with both sharing a history of betrayal and conflicting visions of loyalty",
-    "protagonist_supporting": "Prasad challenges Veer’s mistrust, gradually forming a tentative alliance; Bharmi’s secret involvement intrigues and unsettles Veer, testing his ability to trust; Arjun reminds Veer of personal ties and the human cost of espionage"
+    "protagonist_antagonist": "Veer’s mission to protect his mentor’s secret pits him against Anil, who views the Legacy Protocol as a threat to his power, creating a deadly cat-and-mouse conflict rooted in mistrust and opposing visions of loyalty.",
+    "protagonist_supporting": "Prasad challenges Veer’s isolation and mistrust, injecting youthful optimism and urgency. Bharmi’s secret operative role forces Veer to confront his biases and embrace complex alliances, ultimately enabling his success."
   },
   "character_evolution": {
-    "beginning_state": "Veer is emotionally closed off, mistrustful, and isolated, haunted by past betrayals and reluctant to reengage",
-    "midpoint_shift": "Veer cautiously opens up to Prasad and accepts the necessity of alliance, starting to overcome his internal barrier of distrust",
-    "end_state": "Veer embraces a balanced trust, prepared to rely on others and face the dangers together, reconciling his sense of loyalty with pragmatic collaboration"
+    "beginning_state": "Veer is emotionally withdrawn, guarded, and distrustful, living a life marked by isolation and grief over lost loyalty.",
+    "midpoint_shift": "Veer begins to accept the necessity of trust and teamwork, recognizing that survival and mission success depend on forging new bonds despite risks.",
+    "end_state": "Veer transforms into a capable, trusting leader who embraces loyalty beyond death, ready to rebuild networks and protect the secret legacy actively."
   }
 }
